@@ -1,5 +1,7 @@
+import random
 user_option = input('Piedra, Papel, Tijera =>')
 user_option = user_option.lower()
+options = 0
 
 if  not user_option in options:
     print('opcion no valido')
