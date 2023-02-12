@@ -6,7 +6,8 @@ terminal
 ```sh
 cd game
 python3 main.py
-´´´
+```
+
 
 # App Project
 
@@ -16,4 +17,6 @@ cd app
 source env/bin/activate
 pip3 install -r reqirements.txt
 python3 main.py
-´´´
+```
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
